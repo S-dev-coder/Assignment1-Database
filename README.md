@@ -11,7 +11,7 @@ This repository contains the normalized database schema for a Twitter-like appli
 
 ## Database Schema Overview
 
-![Database Schema Diagram](./Twitter-Schema.png)
+![Database Schema Diagram](./Schema.png)
 
 ## Entity Descriptions
 
